@@ -12,11 +12,6 @@ export default {
             icon: (<SiJavascript color="YELLOW" size="30px"/>)
         },
         {
-            name: "TypeScript",
-            recentlyIKnow: 90,
-            icon: (<SiTypescript color="AQUA" size="30px"/>)
-        },
-        {
             name: "HTML",
             recentlyIKnow: 80,
             icon: (<SiHtml5 color="#e34c26" size="30px"/>)
@@ -32,24 +27,9 @@ export default {
             icon: (<SiNodedotjs color="#68a063" size="30px"/>)
         },
         {
-            name: "React.js",
-            recentlyIKnow: 100,
-            icon: (<SiReact color="#61DBFB" size="30px"/>)
-        },
-        {
-            name: "Next.js",
-            recentlyIKnow: 100,
-            icon: (<SiNextdotjs color="WHITE" size="30px"/>)
-        },
-        {
             name: "Tailwind CSS",
             recentlyIKnow: 100,
             icon: (<SiTailwindcss color="#3490dc" size="30px"/>)
-        },
-        {
-            name: "DaisyUI",
-            recentlyIKnow: 100,
-            icon: (<TbFlower color="YELLOW" size="30px"/>)
         },
         {
             name: "Bootstrap",
@@ -57,9 +37,9 @@ export default {
             icon: (<SiBootstrap color="#563d7c" size="30px"/>)
         },
         {
-            name: "Express",
+            name: "PHP",
             recentlyIKnow: 100,
-            icon: (<SiExpress color="WHITE" size="30px"/>)
+            icon: (<siPHP color="WHITE" size="30px"/>)
         },
         {
             name: "Vercel",
