@@ -1,4 +1,4 @@
-import { SiJavascript, SiTypescript, SiHtml5, SiCss3, SiNodedotjs, SiReact, SiNextdotjs, SiTailwindcss, SiBootstrap, SiExpress, SiVercel, SiGithub, SiPhp } from "react-icons/si"
+import { SiJavascript, SiTypescript, SiHtml5, SiCss3, SiNodedotjs, SiReact, SiNextdotjs, SiTailwindcss, SiBootstrap, SiExpress, SiVercel, SiGithub, SiPhp, } from "react-icons/si"
 import { TbFlower } from "react-icons/tb"
 
 /* You can go to http://react-icons.github.io/react-icons for explore and add icons. */
