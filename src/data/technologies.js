@@ -39,7 +39,7 @@ export default {
         {
             name: "PHP",
             recentlyIKnow: 100,
-            icon: (<siPHP color="WHITE" size="30px"/>)
+            icon: (<SiPhp color="WHITE" size="30px"/>)
         },
         {
             name: "Vercel",
