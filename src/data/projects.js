@@ -3,18 +3,18 @@ export default {
     active: [
 
         {
-            name: "Bots Case",
-            description: "Find the best discord bot for your server in BOTS CASE and upgrade your discord experience. WEBSITE WILL BE OPENED #SOON.",
-            image: "https://cdn.nyde.live/files/iiisiiiisisks.png",
-            role: "Founder",
-            link: "https://botscase.com/"
+            name: "Koleth",
+            description: "The platform where I serve you in terms of software and design in the field of web.",
+            image: "https://media.timeout.com/images/103441678/image.jpg",
+            role: "Business Owner",
+            link: "https://koleth.net.tr/"
         },
         {
-            name: "Milk Botlist",
-            description: "Tatlis sueyimin sunucusu :3 (Cute suey's server)",
-            image: "https://cdn.nyde.live/files/iiisiikissksi.png",
-            role: "Bot Reviewer",
-            link: "https://discord.gg/bkxaptXQ4P"
+            name: "Seçim Arenası",
+            description: "Web üzerinde geliştirdiğimiz online siyaset oyunu.",
+            image: "https://media.timeout.com/images/103441678/image.jpg",
+            role: "Software Developer & Owner",
+            link: "https://secimarenasi.com"
         }
 
     ]
